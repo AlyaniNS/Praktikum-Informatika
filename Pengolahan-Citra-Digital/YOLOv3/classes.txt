@@ -1,0 +1,64 @@
+Beri Jalan
+Stop
+Tidak Boleh Masuk
+Jalur Satu Arah
+Tidak Boleh Ada Kendaraan Di Kedua Jalur
+Sepeda Tidak Boleh Masuk
+Truk Muatan Tidak Boleh Masuk
+Pejalan Kaki Tidak Boleh Masuk
+Kereta Kuda Tidak Boleh Masuk
+Gerobak Tidak Boleh Masuk
+Kendaraan Bermotor Tidak Boleh Masuk
+Tinggi Maksimum
+Beban Maksimum
+Beban Poros Maksimum
+Panjang Kendaraan Maksimum
+Dilarang Belok Kiri
+Dilarang Belok Kanan
+Dilarang Menyalip
+Batas Kecepatan Maksimum
+Dilarang Membunyikan Klakson
+Akhir Seluruh Rambu
+Dilarang Parkir
+Dilarang Berhenti
+Lurus Terus
+Belok Kiri
+Belok Kanan
+Belok Kiri Didepan
+Belok Kanan Didepan
+Belok Kiri Didepan atau Lurus Terus
+Belok Kanan Didepan atau Lurus Terus
+Tetap di Kiri
+Jalur Sepeda
+Tikungan Kiri
+Tikungan Kanan
+Turunan Curam
+Tanjakan Curam
+Jalan Menyempit
+Jembatan Menyempit
+Dermaga Tidak Tertutup
+Jalanan Tidak Rata
+Gundukan Jalan
+Jalanan Turun
+Jalanan Licin
+Kerikil Lepas
+Batu Berjatuhan
+Pejalan Kaki Menyebrang
+Wilayah Sekolah
+Wilayah Pesepeda
+Wilayah Hewan Ternak
+Perbaikan Jalan
+Lampu Lalu Lintas
+Persimpangan
+Bundaran Jalan
+Perlintasan Dengan Penjagaan
+Perlintasan Tanpa Penjagaan
+Perlintasan
+Parkir
+Pemberhentian Bus
+Pos Pertolongan Pertama
+Telepon Umum
+Stasiun Pengisian Bahan Bakar
+Hotel
+Restoran
+Penyegaran
